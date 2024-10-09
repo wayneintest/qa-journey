@@ -16,3 +16,6 @@ October 8, 2024<br>
 
 October 9, 2024<br>
 &emsp;-What is a Waterfall Model, its stages, and its advantages and disadvantages<br>
+
+October 10, 2024<br>
+&emsp;-What is a V-Model, its stages, and how does it differ from the Waterfall Model<br>
