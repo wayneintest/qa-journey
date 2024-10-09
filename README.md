@@ -15,4 +15,4 @@ October 8, 2024<br>
 &emsp;&emsp;-The 2 main models of Sequencial Development: Waterfall Model, V-Model<br>
 
 October 9, 2024<br>
-&emsp;-What is a Waterfall Model<br>
+&emsp;-What is a Waterfall Model, its stages, and its advantages and disadvantages<br>
