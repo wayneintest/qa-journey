@@ -12,7 +12,7 @@ October 8, 2024<br>
 &emsp;-What are the common roles in a software development team<br>
 &emsp;-What is Software Development Life Cycle (SDLC) and its stages/phases<br>
 &emsp;&emsp;-The 2 main categories of SDLC models: Sequential Development, Iterative/Incremental Development<br>
-&emsp;&emsp;-The 2 main models of Sequencial Development: Waterfall Model, V-Model<br>
+&emsp;&emsp;-The 2 main models of Sequential Development: Waterfall Model, V-Model<br>
 
 October 9, 2024<br>
 &emsp;-What is a Waterfall Model, its stages, and its advantages and disadvantages<br>
