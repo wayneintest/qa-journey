@@ -1,5 +1,5 @@
 # qa-journey
-Building a second brain for SQA knowledge with the goal entrying as a Software Tester or QA Analyst and becoming an Automation Test or QA Engineer someday<br>
+Building a second brain for SQA knowledge with the goal of beginning a career as a Software Tester / QA Analyst and becoming an Automation Test / QA Engineer someday<br>
 Resources used:<br>
 &emsp;-<b>"Learn Quality Assurance From Scratch"</b> by <i>alexusadays</i><br>
 &emsp;-<b>"The Complete 2024 Software Testing Bootcamp"</b> by <i>Tarek Roshdy</i><br>
