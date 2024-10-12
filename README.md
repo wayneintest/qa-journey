@@ -16,3 +16,5 @@ October 8, 2024<br>
 October 9, 2024:&emsp;What is a Waterfall Model, its stages, and its advantages and disadvantages<br>
 
 October 10, 2024:&emsp;What is a V-Model, its stages, and how does it differ from the Waterfall Model<br>
+
+October 13, 2024:&emsp;What is a Agile, its feature cycles / iterations, the Agile Manifesto idea, Minimum Viable Product(MVP), and the pros and cons of the methodology<br>
