@@ -22,3 +22,7 @@ October 13, 2024:<br>
 &emsp;-Difference between Incremental and Iterative Devlopment<br>
 &emsp;-Scrum, the Scrum team, and the Scrum Process<br>
 &emsp;-When to use Sequential, Iterative/Incremental/Agile Software Development Model<br>
+
+October 14, 2024:<br>
+&emsp;-Kanban, Lean principles, how Kanban board works and Swim lanes<br>
+&emsp;-Shift Left and Shift Right<br>
