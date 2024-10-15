@@ -26,3 +26,9 @@ October 13, 2024:<br>
 October 14, 2024:<br>
 &emsp;-Kanban, Lean principles, how Kanban board works and Swim lanes<br>
 &emsp;-Shift Left and Shift Right<br>
+
+October 15, 2024:<br>
+&emsp;-Software Testing, why test software, and its purpose<br>
+&emsp;-Types/Categories of software testing: Dynamic and Static Testing<br>
+&emsp;-Classifying software testing: Validation and Verification<br>
+&emsp;-Objectives of testing / Main goals of software testing<br>
