@@ -34,6 +34,7 @@ October 15, 2024:<br>
 &emsp;-Objectives of testing / Main goals of software testing<br>
 
 October 17, 2024:<br>
+&emsp;-Testing and Debugging<br>
 &emsp;-Why testing is necessary<br>
 &emsp;-Quality Control(QC) and Quality Assurance(QA)<br>
 &emsp;-Errors = Defects = Failures; Root Cause<br>
