@@ -32,3 +32,8 @@ October 15, 2024:<br>
 &emsp;-Types/Categories of software testing: Dynamic and Static Testing<br>
 &emsp;-Classifying software testing: Validation and Verification<br>
 &emsp;-Objectives of testing / Main goals of software testing<br>
+
+October 17, 2024:<br>
+&emsp;-Why testing is necessary<br>
+&emsp;-Quality Control(QC) and Quality Assurance(QA)<br>
+&emsp;-Errors = Defects = Failures; Root Cause<br>
