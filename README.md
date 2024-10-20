@@ -42,3 +42,8 @@ October 18-19, 2024:<br>
 &emsp;Test Process<br>
 &emsp;Testware / Work-products produced in each Test Process<br>
 &emsp;Traceability between Test Basis and Testware<br>
+
+October 20, 2024:<br>
+&emsp;Essential skills for testing<br>
+&emsp;SDLC and good software testing practices<br>
+&emsp;Testing as a driver for software development<br>
