@@ -3,6 +3,7 @@ Building a second brain for SQA knowledge with the goal of beginning a career as
 Resources used:<br>
 &emsp;-<b>"Learn Quality Assurance From Scratch"</b> by <i>alexusadays</i><br>
 &emsp;-<b>"The Complete 2024 Software Testing Bootcamp"</b> by <i>Tarek Roshdy</i><br>
+&emsp;-<b>"ISTQB_CTFL_Syllabus-v4.0"</b><br>
 Here's what I learned so far:
 
 October 7-9, 2024:<br>
