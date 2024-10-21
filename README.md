@@ -48,3 +48,9 @@ October 20, 2024:<br>
 &emsp;-Essential skills for testing<br>
 &emsp;-SDLC and good software testing practices<br>
 &emsp;-Testing as a driver for software development<br>
+
+October 21, 2024:<br>
+&emsp;-DevOps and Testing<br>
+&emsp;-Shift-Left Approach<br>
+&emsp;-Retrospectives for process improvement<br>
+&emsp;-Test Levels<br>
