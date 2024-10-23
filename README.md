@@ -56,3 +56,5 @@ October 21, 2024:<br>
 &emsp;-Test Levels<br>
 
 October 22, 2024:&emsp;Test types: Functional, Non-Functional, Black-Box, White-Box, Confirmation, Regression Testing
+
+October 23, 2024:&emsp;Test types: Maintenance, User Acceptance, Gray-Box, Positive, Negative, API, Exploratory Testing; Black-Box technique: Boundary Value Analysis
