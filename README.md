@@ -58,3 +58,5 @@ October 21, 2024:<br>
 October 22, 2024:&emsp;Test types: Functional, Non-Functional, Black-Box, White-Box, Confirmation, Regression Testing
 
 October 23, 2024:&emsp;Test types: Maintenance, User Acceptance, Gray-Box, Positive, Negative, API, Exploratory Testing; Black-Box technique: Boundary Value Analysis
+
+October 24, 2024:&emsp;Test types: Smoke, Beta, Stress, Load, Accessibility, Localization, Security Testing; Intro to creating Test Scenarios
