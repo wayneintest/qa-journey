@@ -66,3 +66,5 @@ Practical - Creating valid/positive and invalid/negative test scenarios for<br>
 &emsp;-Facebook Sign Up; <a>https://trello.com/c/j6qOAS5i/1-facebook-sign-up</a><br>
 &emsp;-Facebook Log In; <a>https://trello.com/c/kFV6B3bz/4-facebook-log-in</a><br>
 &emsp;-Udemy Search (Category, Course, Instructor); <a>https://trello.com/c/7hTwTx6t/5-udemy-search</a>
+
+October 31 - November 3, 2024:&emsp;Black-Box Test Techniques: Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing, Pairwise Testing
