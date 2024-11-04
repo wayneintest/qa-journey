@@ -62,9 +62,12 @@ October 23, 2024:&emsp;Test types: Maintenance, User Acceptance, Gray-Box, Posit
 October 24, 2024:&emsp;Test types: Smoke, Beta, Stress, Load, Accessibility, Localization, Security Testing; Intro to creating Test Scenarios
 
 October 26-29, 2024:<br>
-Practical - Creating valid/positive and invalid/negative test scenarios for<br>
+Practical - Writing valid/positive and invalid/negative test scenarios for<br>
 &emsp;-Facebook Sign Up; <a>https://trello.com/c/j6qOAS5i/1-facebook-sign-up</a><br>
 &emsp;-Facebook Log In; <a>https://trello.com/c/kFV6B3bz/4-facebook-log-in</a><br>
 &emsp;-Udemy Search (Category, Course, Instructor); <a>https://trello.com/c/7hTwTx6t/5-udemy-search</a>
 
 October 31 - November 3, 2024:&emsp;Black-Box Test Techniques: Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing, Pairwise Testing
+
+November 4, 2024:&emsp;Creating a Test Case Document<br>
+Practical - Writing test cases derived from test scenarios
