@@ -71,3 +71,8 @@ October 31 - November 3, 2024:&emsp;Black-Box Test Techniques: Equivalence Parti
 
 November 4, 2024:&emsp;Creating a Test Case Document<br>
 Practical - Writing test cases derived from test scenarios
+
+November 5-10, 2024:<br>
+-Modified Test Scenarios for Facebook Sign Up; <a>https://trello.com/c/O4upw4FE/2-facebook-sign-up-v2</a><br>
+-Modified Test Scenarios for Facebook Log In; <a>https://trello.com/c/CeH9jCud/6-facebook-log-in-v2</a><br>
+-Created Test Cases / Test Case Document derived from Test Scenarios: Facebook Sign Up, Facebook Log In
