@@ -78,5 +78,5 @@ November 5-10, 2024:<br>
 -Created Test Cases / Test Case Document derived from Test Scenarios: Facebook Sign Up, Facebook Log In
 
 November 11, 2024:<br>
--Test Plan
+-Test Plan<br>
 -Filing a Bug Report
