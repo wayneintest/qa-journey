@@ -77,6 +77,7 @@ November 5-10, 2024:<br>
 -Modified Test Scenarios for Facebook Log In; <a>https://trello.com/c/CeH9jCud/6-facebook-log-in-v2</a><br>
 -Created Test Cases / Test Case Document derived from Test Scenarios: Facebook Sign Up, Facebook Log In
 
-November 11, 2024:<br>
+November 11-12, 2024:<br>
 -Test Plan<br>
--Filing a Bug Report
+-Filing a Bug Report<br>
+-Using Zephyr Scale: Creating Test Cases, Features(Folders/Test Suite, Test Cycles, Importing, Exporting, Configurations, Call to Test)
