@@ -77,7 +77,7 @@ November 5-10, 2024:<br>
 -Modified Test Scenarios for Facebook Log In; <a>https://trello.com/c/CeH9jCud/6-facebook-log-in-v2</a><br>
 -Created Test Cases / Test Case Document derived from Test Scenarios: Facebook Sign Up, Facebook Log In
 
-November 11-12, 2024:<br>
+November 11-15, 2024:<br>
 -Test Plan<br>
 -Filing a Bug Report<br>
--Using Zephyr Scale: Creating Test Cases, Features(Folders/Test Suite, Test Cycles, Importing, Exporting, Configurations, Call to Test)
+-Using Zephyr Scale: Creating Test Cases, Features(Folders/Test Suite, Test Cycles, Importing, Exporting, Configurations, Call to Test), Using Parameters/Drivers, Creating BDD - Gherkin Format Test Script, Exporting BDD - Gherkin Format from Zephyr Scale to Java IntelliJ IDEA - Cucumber, Data-Driven Testing (DDT) in Zephyr Scale, Creating Data Set(s) to allow reusability of test data in multiple test cases, Test Case Cloning, Archiving, Creating and Editing in bulk
