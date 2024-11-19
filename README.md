@@ -88,6 +88,6 @@ November 11-17, 2024:<br>
 &emsp;-Data-Driven Testing (DDT) in Zephyr Scale, -Creating Data Set(s) to allow reusability of test data in multiple test cases<br>
 &emsp;-Test Case Cloning, Archiving, Creating and Editing in bulk<br>
 &emsp;-Applying Bidirectional Traceability between User Story and Test Case<br>
-&emsp;-Tracking progress, Editing, Cloning, Deleting Test Cycle(s), -Grouping Test Cycles as a Test Plan<br>
+&emsp;-Tracking progress, Editing, Cloning, Deleting Test Cycle(s), -Grouping Test Cycles to form a Test Plan<br>
 &emsp;-Using Reflect(Run Automated Tests) to write and run Test Cases<br>
 &emsp;-Generating Reports (like Test Execution)
