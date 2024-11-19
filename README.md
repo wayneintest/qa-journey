@@ -77,7 +77,17 @@ November 5-10, 2024:<br>
 -Modified Test Scenarios for Facebook Log In; <a>https://trello.com/c/CeH9jCud/6-facebook-log-in-v2</a><br>
 -Created Test Cases / Test Case Document derived from Test Scenarios: Facebook Sign Up, Facebook Log In
 
-November 11-15, 2024:<br>
+November 11-17, 2024:<br>
 -Test Plan<br>
 -Filing a Bug Report<br>
--Using Zephyr Scale: Creating Test Cases, Features(Folders/Test Suite, Test Cycles, Importing, Exporting, Configurations, Call to Test), Using Parameters/Drivers, Creating BDD - Gherkin Format Test Script, Exporting BDD - Gherkin Format from Zephyr Scale to Java IntelliJ IDEA - Cucumber, Data-Driven Testing (DDT) in Zephyr Scale, Creating Data Set(s) to allow reusability of test data in multiple test cases, Test Case Cloning, Archiving, Creating and Editing in bulk
+-Using Zephyr Scale:<br>
+&emsp;-Creating Test Cases<br>
+&emsp;-Features(Folders/Test Suite, Test Cycles, Importing, Exporting, Configurations, Call to Test)<br>
+&emsp;-Using Parameters/Drivers<br>
+&emsp;-Creating BDD - Gherkin Format Test Script, -Exporting BDD - Gherkin Format from Zephyr Scale to Java IntelliJ IDEA - Cucumber<br>
+&emsp;-Data-Driven Testing (DDT) in Zephyr Scale, -Creating Data Set(s) to allow reusability of test data in multiple test cases<br>
+&emsp;-Test Case Cloning, Archiving, Creating and Editing in bulk<br>
+&emsp;-Applying Bidirectional Traceability between User Story and Test Case<br>
+&emsp;-Tracking progress, Editing, Cloning, Deleting Test Cycle(s), -Grouping Test Cycles as a Test Plan<br>
+&emsp;-Using Reflect(Run Automated Tests) to write and run Test Cases<br>
+&emsp;-Generating Reports (like Test Execution)
