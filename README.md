@@ -91,3 +91,8 @@ November 11-17, 2024:<br>
 &emsp;-Tracking progress, Editing, Cloning, Deleting Test Cycle(s), -Grouping Test Cycles to form a Test Plan<br>
 &emsp;-Using Reflect(Run Automated Tests) to write and run Test Cases<br>
 &emsp;-Generating Reports (like Test Execution)
+
+November 18-21, 2024:<br>
+-Defect Report, its components, types of Defect<br>
+-Defect/Bug Life Cycle<br>
+-Using AxeDevTools for Accessibility testing
