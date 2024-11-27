@@ -94,7 +94,7 @@ November 11-17, 2024:<br>
 
 November 18-22, 2024:<br>
 -Defect Report, its components, types of Defect<br>
--Defect/Bug Life Cycle<br>
+-Defect/Bug Life Cycle; <a>https://www.canva.com/design/DAGXpEf8JTQ/ssYE1vD3HgJkF8eVRcI96A/view?utm_content=DAGXpEf8JTQ&utm_campaign=designshare&utm_medium=link&utm_source=editor</a><br>
 -Using AxeDevTools for Accessibility testing
 
 November 23-24, 2024:<br>
