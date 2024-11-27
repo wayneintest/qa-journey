@@ -97,5 +97,6 @@ November 18-22, 2024:<br>
 -Defect/Bug Life Cycle<br>
 -Using AxeDevTools for Accessibility testing
 
-November 23, 2024:<br>
+November 23-24, 2024:<br>
 -Common Website Elements and Pages<br>
+-Test Reports: Reviewing a Test Plan, Test Progress Report, and Test Completion Report
